@@ -1,7 +1,7 @@
 # 👋 Hola, soy Michelle
 
 💻 Desarrolladora Full Stack Trainee  
-🚀 En formación en desarrollo web con , HTML, CSS, JavaScript, Bootstrap, Python y Django 
+🚀 En formación en desarrollo de aplicaciones web con enfoque en soluciones reales para negocios.
 
 ---
 
@@ -28,7 +28,7 @@ Proyecto web orientado a una tienda de zapatillas urbanas.
 ✔️ Contador de carrito  
 ✔️ Próximamente integración con Django (backend)
 
-🔗 Próximamente disponible
+🔗 Repositorio: https://github.com/michellebley/CalleBazar
 
 ---
 
