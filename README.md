@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Michelle
 
-<!--
-**michellebley/michellebley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora Full Stack Trainee  
+🚀 En formación en desarrollo web con , HTML, CSS, JavaScript, Bootstrap, Python y Django 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- Python
+- Django
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Git y GitHub
+- SQL
+
+---
+
+## Proyecto Destacado
+
+### 🛒 CalleBazar
+Proyecto web orientado a una tienda de zapatillas urbanas.
+
+✔️ Catálogo visual  
+✔️ Sección de contacto  
+✔️ Contador de carrito  
+✔️ Próximamente integración con Django (backend)
+
+🔗 Próximamente disponible
+
+---
+
+## 📫 Contacto
+
+📧 bleybertran.michelle@gmail.com  
+🌐 GitHub: https://github.com/michellebley
