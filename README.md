@@ -36,3 +36,5 @@ Proyecto web orientado a una tienda de zapatillas urbanas.
 
 📧 bleybertran.michelle@gmail.com  
 🌐 GitHub: https://github.com/michellebley
+💼 Linkedin: https://www.linkedin.com/in/michellebley/
+🔗 Portafolio web: https://tuusuario.github.io/portafolio-michellebley
