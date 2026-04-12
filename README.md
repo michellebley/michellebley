@@ -2,7 +2,6 @@
 
 💻 Desarrolladora Full Stack Trainee  
 🚀 En formación en desarrollo de aplicaciones web con enfoque en soluciones reales para negocios.
-
 ---
 
 ## 🛠️ Tecnologías
@@ -15,7 +14,6 @@
 - JavaScript
 - Git y GitHub
 - SQL
-
 ---
 
 ## Proyecto Destacado
@@ -29,7 +27,6 @@ Proyecto web orientado a una tienda de zapatillas urbanas.
 ✔️ Próximamente integración con Django (backend)
 
 🔗 Repositorio: https://github.com/michellebley/CalleBazar
-
 ---
 
 ## 📫 Contacto
